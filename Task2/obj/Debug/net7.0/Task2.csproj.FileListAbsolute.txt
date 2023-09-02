@@ -1,0 +1,5 @@
+/Users/olkash/Desktop/Учеба/HomeworkC#_5/HomeworkCSharp5/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#_5/HomeworkCSharp5/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olkash/Desktop/Учеба/HomeworkC#_5/HomeworkCSharp5/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/olkash/Desktop/Учеба/HomeworkC#_5/HomeworkCSharp5/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/olkash/Desktop/Учеба/HomeworkC#_5/HomeworkCSharp5/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
