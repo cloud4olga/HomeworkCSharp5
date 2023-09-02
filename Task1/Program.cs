@@ -12,7 +12,7 @@ for (int i = 0; i < numberTotal; i++)
     int number = int.Parse(Console.ReadLine());
     if (number > 0) count++;
 }
-Console.WriteLine($"Пользователь ввел {count} положительных чисел");
+Console.WriteLine($"Количество положительных чисел, введенных пользователем: {count}");
 
 
 
